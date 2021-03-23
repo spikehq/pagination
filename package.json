@@ -1,11 +1,11 @@
 {
-  "name": "pagination",
+  "name": "easy-pagination",
   "version": "1.0.0",
-  "description": "",
+  "description": "A NPM module to take care of pagination.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Spikehq <kaushik@spike.sh> (https://spike.sh)",
   "license": "ISC"
 }
